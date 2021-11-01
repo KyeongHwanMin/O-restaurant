@@ -14,6 +14,8 @@
 담당역할 : 메뉴 게시판, 메뉴 게시글 블록 / 리뷰 코멘트,  메인 페이지 상세 사항, 
 	 메인 페이지 메뉴바
 
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=KyeongHwanMin&repo=O-restaurant)](https://github.com/KyeongHwanMin/O-restaurant)
+
 ![image](https://user-images.githubusercontent.com/17818416/132639320-da179d22-ab0d-4660-9115-f45dc7e6c301.png)
 
 ![image](https://user-images.githubusercontent.com/17818416/132639361-dfba4959-e9be-425d-b1ec-351634b21224.png)
